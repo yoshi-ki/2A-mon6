@@ -3,6 +3,8 @@ Homework of the class about competitive programing
 In this class we made some algorithm problems in AOJ (http://judge.u-aizu.ac.jp/onlinejudge/)
 
 --- About this class ---
+
+
 First : introduction, how to do input and output, how to submit 
 
 Second : I tried to solve the problem in dynamic programming but failed(taxrate.cc), full search is faster(taxrate1.cc).
